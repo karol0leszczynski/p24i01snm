@@ -1,6 +1,6 @@
 import time
 #import board
-import busio
+#import busio
 import netifaces
 from adafruit_ssd1306 import SSD1306_I2C
 
